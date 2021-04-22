@@ -1,0 +1,16 @@
+h1{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4A5568;
+}
+
+.sec-btn-documentation{
+    background-color: grey !important;
+    color: ghostwhite !important;
+}
+.sec-btn-download{
+    background-color: #ed5524 !important;
+    margin-left: 10px;
+    color: ghostwhite !important;
+
+}

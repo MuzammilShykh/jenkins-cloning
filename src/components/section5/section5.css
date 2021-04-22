@@ -1,0 +1,10 @@
+.container{
+    border:whitesmoke solid;
+    box-shadow: black;
+}
+.myRow{
+    padding: 10px;
+}
+h3{
+    padding-left: 20px;
+}
